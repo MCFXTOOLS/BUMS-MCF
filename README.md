@@ -1,3 +1,5 @@
 ﻿# Bums
 THNAKS  FOR MAKING SCRIPT  (https://t.me/airdrophuntersieutoc)
-# YOUTUBE 
+# HOW TO RUN
+see my youtube 
+https://www.youtube.com/@MCFXTOOLS
