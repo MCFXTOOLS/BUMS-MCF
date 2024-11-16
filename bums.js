@@ -8,6 +8,14 @@ const md5 = require("md5");
 const user_agents = require("./config/userAgents");
 const settings = require("./config/config");
 const { sleep, updateEnv } = require("./utils");
+console.log(`
+========================================================
+||                                                   ||
+||     Welcome to Bums Script                        ||
+||     (JION MY CHANNEL https://t.me/mfcxtools") ||
+||                                                   ||
+========================================================
+`);
 
 class Bums {
   constructor() {
@@ -851,7 +859,7 @@ class Bums {
   }
 
   async main() {
-    console.log(colors.yellow("Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)"));
+    console.log(colors.yellow("𝕁𝕀𝕆ℕ 𝕋𝔼𝕃𝔼𝔾ℝ𝔸𝕄 (https://t.me/mfcxtools)"));
 
     const dataFile = path.join(__dirname, "data.txt");
     if (!fs.existsSync(dataFile)) {
@@ -963,7 +971,7 @@ class Bums {
       }
       updateEnv("DAILY_COMBO", "false");
       sleep(5);
-      await this.countdown(settings.TIME_SLEEP * 60);
+      await this.countdown(settings.TIME_SLEEP * 20);
     }
   }
 }
