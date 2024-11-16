@@ -1,5 +1,5 @@
-﻿# CRADIT
-THNAKS  FOR MAKING SCRIPT  (https://t.me/airdrophuntersieutoc)
+﻿# credit goes to
+(https://t.me/airdrophuntersieutoc)
 # DAILY COMBO FOR SCRIPT 
 https://t.me/mfcxtools
 # HOW TO RUN
